@@ -112,7 +112,7 @@ pip install ucimlrepo
 
 ## 👨‍💻 Author
 
-Akshay Kumar Singh
+- Akshay Kumar Singh
 
 ---
 

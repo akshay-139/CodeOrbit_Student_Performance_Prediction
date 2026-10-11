@@ -112,8 +112,7 @@ pip install ucimlrepo
 
 ## 👨‍💻 Author
 
-Created as a beginner-level Machine Learning project to develop practical skills in Python, data analysis, visualization, and predictive modeling.
+Akshay Kumar Singh
 
 ---
 
-*This project is intended for educational and learning purposes.*
